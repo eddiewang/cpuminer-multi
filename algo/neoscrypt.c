@@ -52,6 +52,8 @@
 #endif
 #endif
 
+#define ASM 0
+#define ASM 0
 #if (WINDOWS)
 /* sizeof(unsigned long) = 4 for MinGW64 */
 typedef unsigned long long ulong;
